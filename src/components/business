@@ -1,0 +1,8 @@
+
+
+
+
+
+
+
+<Route path="/"><News country="in" category="general" /></Route>

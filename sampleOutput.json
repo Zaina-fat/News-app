@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Holly Ellyatt",
+      "title": "Ukraine attacks Russian units in Kherson, saying Moscow didn't request a 'green corridor' for withdrawal - CNBC",
+      "description": "Russia suffered another self-inflicted blow to morale after it announced Wednesday that it will withdraw its troops from a significant chunk of Kherson.",
+      "url": "https://www.cnbc.com/2022/11/10/russia-ukraine-war-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107149590-1668082615043-gettyimages-1244656695-AA_10112022_936047.jpeg?v=1668090598&w=1920&h=1080",
+      "publishedAt": "2022-11-10T18:39:00Z",
+      "content": "The spokesperson for Ukraine's Ministry of Foreign Affairs, Oleg Nikolenko, delivered a blistering response to Russia's recent announcement that it is ready to engage in negotiations with Ukraine.\r\n\"… [+1766 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Hurricane Nicole: Power outages as rare November storm hits Florida - BBC",
+      "description": "Evacuation orders are in place as Hurricane Nicole makes landfall before weakening to a tropical storm.",
+      "url": "https://www.bbc.com/news/world-us-canada-63499056",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B5AE/production/_127501564_038d4d1cf6dd507fd6eba836322c9955ffadd413.jpg",
+      "publishedAt": "2022-11-10T18:19:58Z",
+      "content": "Media caption, Hurricane Nicole made landfall in Florida on Thursday\r\nMore than 300,000 homes and businesses in Florida have been left without power as storm Nicole batters the US state.\r\nStates of e… [+3117 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Musk Paints Bleak Picture, Ends Remote Work, in Email to Twitter Employees - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTAvdGVjaG5vbG9neS9lbG9uLW11c2stdHdpdHRlci1lbXBsb3llZXMuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-10T17:57:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Detroit Free Press"
+      },
+      "author": ", Detroit Free Press",
+      "title": "RSV cases fill U-M's C.S. Mott Children's Hospital: What to know - Detroit Free Press",
+      "description": "A record number of severely ill children with RSV have flooded C.S Mott Children’s Hospital, forcing some elective procedures to be postponed.",
+      "url": "https://www.freep.com/story/news/health/2022/11/10/rsv-mott-childrens-hospital-university-michigan/69636828007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/06/09/PDTF/cf9bd103-cd8e-41de-92c6-f83ada037fe2-IMG_1_1_1_1_TRP63KU4_L14089.JPG?auto=webp&crop=2047,1151,x0,y205&format=pjpg&width=1200",
+      "publishedAt": "2022-11-10T17:48:45Z",
+      "content": "Capacity at pediatric hospitals across Michigan is strained as a record number of severely ill children with respiratory syncytial virus, or RSV, flood emergency rooms and fill hospital beds.\r\n\"There… [+5114 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "By <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a>, Matt Meyer and <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, CNN",
+      "title": "Live updates: Midterm election results and balance of power in Congress - CNN",
+      "description": "Find election results for the US 2022 Midterm Election here. Follow CNN's live coverage and results for key Senate, House and state races for Thursday, Nov. 10.",
+      "url": "https://www.cnn.com/politics/live-news/election-results-congress-senate-house-11-10-2022/index.html",
+      "urlToImage": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/d7e41ca7-3c3e-4953-a2f9-2327f755c7c8.jpg",
+      "publishedAt": "2022-11-10T17:33:00Z",
+      "content": "Democrat John Fetterman's victory over Trump-backed Republican Mehmet Oz, the cardiothoracic surgeon turned TV doctor, was the culmination of his own political journey, from big, brash small town may… [+2645 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Credibility Questions Dog World Bank President at Climate Summit - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMDkvY2xpbWF0ZS9kYXZpZC1tYWxwYXNzLXdvcmxkLWJhbmstY29wMjctY2xpbWF0ZS1jaGFuZ2UuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-10T17:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Biden and Xi Will Meet as Tensions Grow Over Taiwan - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTAvdXMvcG9saXRpY3MvYmlkZW4teGktY2hpbmEtdGFpd2FuLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-10T16:50:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Cassidy Morrison Senior",
+      "title": "Silver bullet for cancer? Scientists use CRISPR to unlock patients' true tumor-fighting potential - Daily Mail",
+      "description": "Scientists have tailored DNA-editing technology to alter cancer patients' immune cells to recognize mutated proteins specific to their cancers, turbocharging how the body fights cancer cells.",
+      "url": "https://www.dailymail.co.uk/health/article-11412967/Silver-bullet-cancer-Scientists-use-CRISPR-unlock-patients-true-tumor-fighting-potential.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/11/10/17/64416819-0-image-a-23_1668102917587.jpg",
+      "publishedAt": "2022-11-10T16:49:33Z",
+      "content": "Scientists have tailored DNA-editing technology to turbocharge how the body fights cancer cells in a potential breakthrough. \r\nThey modified patients' genes to instruct cancer-fighting cells to swarm… [+5292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Scott Pianowski",
+      "title": "Fantasy Football Sleepers, Week 10: Two young tight ends ready to contribute - Yahoo Sports",
+      "description": "Tight end has been fantasy's weakest position again this season, but Scott Pianowski's Week 10 sleepers include two options to consider for your lineup.",
+      "url": "https://sports.yahoo.com/fantasy-football-sleepers-week-10-two-young-tight-ends-ready-to-contribute-163849361.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.f30qcqPup.KuesHxbRiEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/17b213a0-6114-11ed-9fef-4c07d1dd995f",
+      "publishedAt": "2022-11-10T16:38:49Z",
+      "content": "DeAndre Carter beat his reception prop last week and Isaiah Likely scored a touchdown, albeit just on one catch. Otherwise, the fantasy sleeper page was mostly asleep last week, especially with the C… [+4047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Oliver Knight, Sam  Kessler",
+      "title": "Crypto Exchange FTX Reopens Withdrawals: Nansen - CoinDesk",
+      "description": "Several users have been able to withdraw crypto for the first time in days.",
+      "url": "https://www.coindesk.com/business/2022/11/10/crypto-exchange-ftx-reopens-withdrawals-nansen/",
+      "urlToImage": "https://www.coindesk.com/resizer/-TPUkPBjzAFY0dk5SqXzHKPjqDg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UJH3OSMX6BBT3G7APQIQUIRU2I.jpg",
+      "publishedAt": "2022-11-10T16:14:00Z",
+      "content": "Troubled crypto exchange FTX has reopened withdrawals to some users, according to on-chain data provided by Nansen.\r\nOne user was able to withdraw $2.6 million worth of ether (ETH) while another was … [+1858 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "The best wireless mechanical keyboards - Ars Technica",
+      "description": "Want mechanical typing without bulky cables? Here are our 4 favorite options.",
+      "url": "https://arstechnica.com/gadgets/2022/11/the-best-wireless-mechanical-keyboards/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/20221020_163434-760x380.jpg",
+      "publishedAt": "2022-11-10T16:11:57Z",
+      "content": "26 with 0 posters participating\r\nIt's no secret that mechanical keyboards provide some of the best tactile typing experiences available. It's also not a secret that wireless keyboards can be a produc… [+4972 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "George Steer, Hudson Lockett",
+      "title": "US stocks soar after inflation data cool Fed rate rise expectations - Financial Times",
+      "description": "Government bonds also rally, triggered by expectations of lower Fed rate rise",
+      "url": "https://www.ft.com/content/c90f6775-28ff-4bcb-b36a-7b01d5672403",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e160260-a3ed-4d26-bba9-785be87e18c5.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-11-10T15:33:33Z",
+      "content": "US stocks shot higher and Treasuries rallied on Thursday after Octobers closely watched inflation data came in cooler than expected, setting the stage for lower Federal Reserve rate rises. \r\nWall Str… [+2774 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Josh Marcus",
+      "title": "Georgia election – live: Democrats pour $7m into Warnock v Walker Senate runoff - The Independent",
+      "description": "Georgia midterms 2022",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/midterm-elections-2022/georgia-election-runoff-warnock-walker-race-b2222309.html",
+      "urlToImage": "https://static.independent.co.uk/2022/11/03/19/Collage%20Maker-02-Nov-2022-11.04-AM.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-11-10T15:20:09Z",
+      "content": "The Democrats are once again counting on Black voters to save the Senate'\r\nBlack voters have long been a core part of the Democratic party coalition, and thats been especially clear in recent years i… [+1246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "LOOK: NBA, Nike unveil 2022-23 City Edition uniforms for all 30 teams - CBS Sports",
+      "description": "The Wizards, Hawks and Heat will wear theirs on Thursday",
+      "url": "https://www.cbssports.com/nba/news/look-nba-nike-unveil-2022-23-city-edition-uniforms-for-all-30-teams/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/10/d183f595-f7c8-4d98-8e69-9b356917bd1a/thumbnail/1200x675/4e3f3b66a8fc60130c2ac66910b95cd7/celtics-city-uniform-g.jpg",
+      "publishedAt": "2022-11-10T15:18:15Z",
+      "content": "New uniforms just dropped. On Thursday morning, the NBA and Nike unveiled the 2022-23 City Edition uniforms for all 30 teams. They have been designed to \"represent the stories, history and heritage t… [+422 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Annabelle Timsit, Dan Lamothe",
+      "title": "100,000 Russian troops killed, wounded in Ukraine, Gen. Mark Milley says - The Washington Post",
+      "description": "Gen. Mark A. Milley’s figure is a sharp increase from the Pentagon’s August estimate of 70,000 to 80,000 Russian casualties.",
+      "url": "https://www.washingtonpost.com/world/2022/11/10/number-russian-troops-killed-injured-ukraine/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U6DXRU7FM6QE57N37SOK3RHQDI.jpg&w=1440",
+      "publishedAt": "2022-11-10T14:30:00Z",
+      "content": "Comment on this story\r\nMore than 100,000 Russian troops and about as many Ukrainian troops are estimated to have died or been injured in the war so far, according to Gen. Mark A. Milley, chairman of … [+3863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Panthers vs. Falcons: Time, how to watch, live streaming, key matchups, pick for 'Thursday Night Football' - CBS Sports",
+      "description": "NFC South rivals face off on Thursday night",
+      "url": "https://www.cbssports.com/nfl/news/panthers-vs-falcons-time-how-to-watch-live-streaming-key-matchups-pick-for-thursday-night-football/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/10/35ea5490-2ff6-4327-b1bc-dfdf6930d132/thumbnail/1200x675/523f588465e9dedbb73c3970a7f3a344/cordarrelle-patterson-cbs-usatsi-falcons.jpg",
+      "publishedAt": "2022-11-10T13:57:21Z",
+      "content": "We're more than halfway through the 2022 NFL season now, and for the Week 10 edition of Thursday Night Football, we have the Atlanta Falcons traveling to Charlotte to take on the division rival Carol… [+5522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Ruth Michaelson, Oliver Milman",
+      "title": "Civil society groups report surveillance and intimidation at Cop27 - The Guardian",
+      "description": "Attenders say actions of Egyptian authorities are threatening their participation at conference",
+      "url": "https://www.theguardian.com/environment/2022/nov/10/civil-society-groups-report-surveillance-and-intimidation-at-cop27-egypt",
+      "urlToImage": "https://i.guim.co.uk/img/media/dd5c584d3a181634ab98fd3c1be328247a602989/0_182_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3689d633c334a5029afe23e8e68c3c1e",
+      "publishedAt": "2022-11-10T13:19:00Z",
+      "content": "Members of civil society attending Cop27 have described how surveillance and intimidation by the Egyptian authorities is threatening their participation in the climate conference.\r\nProblems reported … [+7136 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Chris Pandolfo",
+      "title": "Freedom Caucus Rep. Andy Biggs says 'not so fast' to McCarthy speakership after disappointing election results - Fox News",
+      "description": "Arizona Rep. Andy Biggs, a member of the House Freedom Caucus, says Republicans need to have a \"serious discussion\" before electing Kevin McCarthy as House speaker.",
+      "url": "https://www.foxnews.com/politics/freedom-caucus-andy-biggs-says-not-fast-mccarthy-speakership-disappointing-election-results",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/Andy-Biggs.jpg",
+      "publishedAt": "2022-11-10T13:01:28Z",
+      "content": "Rep. Andy Biggs, R-Ariz., on Wednesday signaled that House Minority Leader Kevin McCarthy may hit a few speed bumps on his quest to become the next House speaker, arguing the Republican conference ne… [+3997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sports Illustrated"
+      },
+      "author": "The MMQB Staff",
+      "title": "2022 NFL Midseason: First-Half Surprises, Second-Half Story Lines, Super Bowl Predictions - Sports Illustrated",
+      "description": "The undefeated Eagles and struggling Packers highlight the first half of the season, while the Bills’ championship dreams and the return of Deshaun Watson will be stories in the second half.",
+      "url": "https://www.si.com/nfl/2022/11/10/nfl-midseason-super-bowl-predictions-top-stories-eagles-bills",
+      "urlToImage": "https://www.si.com/.image/t_share/MTkzNjM4MzE5NzU2NjgyNjkx/nfl-midseason-jalen-hurts-aaron-rodgers-josh-allen.jpg",
+      "publishedAt": "2022-11-10T13:00:00Z",
+      "content": "With nine weeks in the books, we have reached the NFL’s official midseason point. To mark the occasion, we are looking back at the first half of the season and zooming ahead to the playoffs, a totall… [+29321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "John Walker",
+      "title": "Someone Is Livestreaming All Of Pokémon Scarlet And Violet A Week Ahead Of Release - Kotaku",
+      "description": "Pretty much secret the game had kept is now out in the wild, but we're not spoiling them",
+      "url": "https://kotaku.com/pokemon-scarlet-and-violet-nintendo-leak-livestream-1849766487",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c91d8c692a9d978d98e342ef3da3876e.jpg",
+      "publishedAt": "2022-11-10T12:23:00Z",
+      "content": "Sadly, it appears Nintendo is now just utterly helpless to leaks. So many first-party games from the last couple of years has found its way onlineeither being streamed, or even ripped and playable on… [+2645 chars]"
+    }
+  ]
+}
